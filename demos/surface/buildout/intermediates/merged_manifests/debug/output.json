@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.google.android.exoplayer2.surfacedemo",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2012000,
+        "versionName": "2.12.0",
+        "outputFile": "demo-surface-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.google.android.exoplayer2.surfacedemo",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2016 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.google.android.exoplayer2.demo"
+19    android:versionCode="2012000"
+20    android:versionName="2.12.0" >
+21
+22    <uses-sdk
+22-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+23        android:minSdkVersion="16"
+23-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+24        android:targetSdkVersion="29" />
+24-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+25
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:21:3-64
+26-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:21:20-62
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:22:3-76
+27-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:22:20-74
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:23:3-77
+28-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:23:20-75
+29    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+29-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:24:3-78
+29-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:24:20-76
+30    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+30-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:25:3-74
+30-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:25:20-72
+31
+32    <uses-feature
+32-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:27:3-84
+33        android:name="android.software.leanback"
+33-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:27:17-57
+34        android:required="false" />
+34-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:27:58-82
+35    <uses-feature
+35-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:28:3-87
+36        android:name="android.hardware.touchscreen"
+36-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:28:17-60
+37        android:required="false" />
+37-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:28:61-85
+38
+39    <application
+39-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:31:3-96:17
+40        android:name="androidx.multidex.MultiDexApplication"
+40-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:38:7-59
+41        android:allowBackup="false"
+41-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:36:7-34
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:24:18-86
+43        android:banner="@drawable/ic_banner"
+43-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:34:7-43
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+45-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:33:7-41
+46        android:label="@string/application_name"
+46-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:32:7-47
+47        android:largeHeap="true"
+47-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:35:7-31
+48        android:requestLegacyExternalStorage="true"
+48-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:37:7-50
+49        android:testOnly="true" >
+50        <activity
+50-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:41:5-62:16
+51            android:name="com.google.android.exoplayer2.demo.SampleChooserActivity"
+51-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:41:15-86
+52            android:configChanges="keyboardHidden"
+52-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:42:9-47
+53            android:label="@string/application_name"
+53-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:43:9-49
+54            android:theme="@style/Theme.AppCompat" >
+54-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:44:9-47
+55            <intent-filter>
+55-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:45:7-49:23
+56                <action android:name="android.intent.action.MAIN" />
+56-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:46:9-60
+56-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:46:17-58
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:47:9-68
+58-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:47:19-66
+59                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+59-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:48:9-77
+59-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:48:19-75
+60            </intent-filter>
+61            <intent-filter>
+61-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:50:7-61:23
+62                <action android:name="android.intent.action.VIEW" />
+62-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:51:9-60
+62-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:51:17-58
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:9-67
+64-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:19-65
+65                <category android:name="android.intent.category.BROWSABLE" />
+65-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:53:9-69
+65-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:53:19-67
+66
+67                <data android:scheme="http" />
+67-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+67-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+68                <data android:scheme="https" />
+68-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+68-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+69                <data android:scheme="content" />
+69-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+69-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+70                <data android:scheme="asset" />
+70-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+70-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+71                <data android:scheme="file" />
+71-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+71-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+72                <data android:host="*" />
+72-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+72-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:59:15-31
+73                <data android:pathPattern=".*\\.exolist\\.json" />
+73-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+73-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:60:15-56
+74            </intent-filter>
+75        </activity>
+76        <activity
+76-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:64:5-82:16
+77            android:name="com.google.android.exoplayer2.demo.PlayerActivity"
+77-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:64:15-79
+78            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+78-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:65:9-118
+79            android:label="@string/application_name"
+79-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:67:9-49
+80            android:launchMode="singleTop"
+80-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:66:9-39
+81            android:theme="@style/PlayerTheme" >
+81-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:68:9-43
+82            <intent-filter>
+82-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:69:7-77:23
+83                <action android:name="com.google.android.exoplayer.demo.action.VIEW" />
+83-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:70:9-79
+83-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:70:17-77
+84
+85                <category android:name="android.intent.category.DEFAULT" />
+85-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:9-67
+85-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:19-65
+86
+87                <data android:scheme="http" />
+87-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+87-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+88                <data android:scheme="https" />
+88-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+88-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+89                <data android:scheme="content" />
+89-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+89-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+90                <data android:scheme="asset" />
+90-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+90-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+91                <data android:scheme="file" />
+91-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+91-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+92            </intent-filter>
+93            <intent-filter>
+93-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:78:7-81:23
+94                <action android:name="com.google.android.exoplayer.demo.action.VIEW_LIST" />
+94-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:79:9-84
+94-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:79:17-82
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:9-67
+96-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:19-65
+97            </intent-filter>
+98        </activity>
+99
+100        <service
+100-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:84:5-90:15
+101            android:name="com.google.android.exoplayer2.demo.DemoDownloadService"
+101-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:84:14-83
+102            android:exported="false" >
+102-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:85:9-33
+103            <intent-filter>
+103-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:86:7-89:23
+104                <action android:name="com.google.android.exoplayer.downloadService.action.RESTART" />
+104-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:87:9-93
+104-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:87:17-91
+105
+106                <category android:name="android.intent.category.DEFAULT" />
+106-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:9-67
+106-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:19-65
+107            </intent-filter>
+108        </service>
+109        <service
+109-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:92:5-94:34
+110            android:name="com.google.android.exoplayer2.scheduler.PlatformScheduler$PlatformSchedulerService"
+110-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:92:14-111
+111            android:exported="true"
+111-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:94:9-32
+112            android:permission="android.permission.BIND_JOB_SERVICE" />
+112-->/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:93:9-65
+113
+114        <meta-data
+114-->[:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-27:36
+115            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+115-->[:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-69
+116            android:value="true" />
+116-->[:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-33
+117        <meta-data
+117-->[:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-30:69
+118            android:name="com.google.android.gms.version"
+118-->[:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-58
+119            android:value="@integer/google_play_services_version" />
+119-->[:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-66
+120
+121        <activity
+121-->[com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+122            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+122-->[com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+123            android:exported="false"
+123-->[com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+124            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+124-->[com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+125    </application>
+126
+127</manifest>

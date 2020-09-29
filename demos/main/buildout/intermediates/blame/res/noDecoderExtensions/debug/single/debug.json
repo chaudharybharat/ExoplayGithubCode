@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xxhdpi_ic_download.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/layout_track_selection_dialog.xml.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/layout/track_selection_dialog.xml"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-mdpi_ic_download.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-mdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xhdpi_ic_banner.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xhdpi/ic_banner.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/layout_sample_list_item.xml.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/layout/sample_list_item.xml"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/layout_player_activity.xml.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/layout/player_activity.xml"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-mdpi_ic_download_done.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-mdpi/ic_download_done.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xxxhdpi_ic_download.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xxxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xhdpi_ic_download.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/menu_sample_chooser_menu.xml.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/menu/sample_chooser_menu.xml"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xhdpi_ic_download_done.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xhdpi/ic_download_done.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/layout_sample_chooser_activity.xml.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/layout/sample_chooser_activity.xml"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-hdpi_ic_download_done.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-hdpi/ic_download_done.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xxxhdpi_ic_download_done.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xxxhdpi/ic_download_done.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-hdpi_ic_download.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/buildout/intermediates/res/merged/noDecoderExtensions/debug/drawable-xxhdpi_ic_download_done.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/res/drawable-xxhdpi/ic_download_done.png"
+    }
+]

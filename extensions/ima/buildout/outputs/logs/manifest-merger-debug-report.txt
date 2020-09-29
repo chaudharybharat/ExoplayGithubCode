@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:16:1-24:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:16:1-24:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:16:1-24:12
+	package
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:17:5-52
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:18:3-23:17
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:19:5-20:31
+	android:value
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:20:9-29
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:19:16-72
+meta-data#com.google.android.gms.version
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:21:5-22:64
+	android:value
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml:21:16-61
+uses-sdk
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/src/main/AndroidManifest.xml

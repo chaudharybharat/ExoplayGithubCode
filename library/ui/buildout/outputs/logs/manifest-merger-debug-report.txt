@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml:17:1-55
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml:17:1-55
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml:17:1-55
+	package
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml:17:11-53
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml:17:1-55
+uses-sdk
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/src/main/AndroidManifest.xml

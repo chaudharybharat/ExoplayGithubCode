@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+MERGED from [:library-ui] /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-dash] /home/harsh/Downloads/ExoPlayer-release-v2/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [:library-extractor] /home/harsh/Downloads/ExoPlayer-release-v2/library/extractor/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media:media:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/baaec7ebd321abd41c47867b23d0d6e2/media-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b92bc3b7e3d77c7e6174a330a72e7d3/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/298bb833ddb91a79703d02af826f9d7e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c70542a3a50c08d2b82f31c3b8e69b29/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/bd0e64cc99fcfae5d7bb748604857a3d/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+	package
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:17:5-56
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:1-41:12
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+MERGED from [:library-ui] /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /home/harsh/Downloads/ExoPlayer-release-v2/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /home/harsh/Downloads/ExoPlayer-release-v2/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-extractor] /home/harsh/Downloads/ExoPlayer-release-v2/library/extractor/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-extractor] /home/harsh/Downloads/ExoPlayer-release-v2/library/extractor/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/baaec7ebd321abd41c47867b23d0d6e2/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/baaec7ebd321abd41c47867b23d0d6e2/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b92bc3b7e3d77c7e6174a330a72e7d3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b92bc3b7e3d77c7e6174a330a72e7d3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/298bb833ddb91a79703d02af826f9d7e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/298bb833ddb91a79703d02af826f9d7e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c70542a3a50c08d2b82f31c3b8e69b29/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c70542a3a50c08d2b82f31c3b8e69b29/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/bd0e64cc99fcfae5d7bb748604857a3d/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/bd0e64cc99fcfae5d7bb748604857a3d/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+	android:targetSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:18:3-14
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:19:3-64
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:19:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:20:3-77
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:20:20-75
+application
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:21:3-40:17
+MERGED from [androidx.core:core:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c70542a3a50c08d2b82f31c3b8e69b29/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c70542a3a50c08d2b82f31c3b8e69b29/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c70542a3a50c08d2b82f31c3b8e69b29/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:24:5-45
+	android:icon
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:23:5-39
+	android:allowBackup
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:22:5-32
+activity#com.google.android.exoplayer2.surfacedemo.MainActivity
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:25:5-39:16
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:25:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:26:7-29:23
+action#android.intent.action.MAIN
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:27:9-60
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:27:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:28:9-68
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:28:19-66
+intent-filter#action:name:com.google.android.exoplayer.surfacedemo.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:asset+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:30:7-38:23
+action#com.google.android.exoplayer.surfacedemo.action.VIEW
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:31:9-86
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:31:17-84
+category#android.intent.category.DEFAULT
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:32:9-67
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:32:19-65
+data
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:33:9-38
+	android:scheme
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/AndroidManifest.xml:33:15-36
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:22-76

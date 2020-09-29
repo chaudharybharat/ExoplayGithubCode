@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.google.android.exoplayer2.common",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "library-common-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.google.android.exoplayer2.common",
+        "split": ""
+      }
+    }
+  ]
+}

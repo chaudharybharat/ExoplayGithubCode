@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+MERGED from [com.google.android.material:material:1.2.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/36a594765d546bc118c6e0273dbf7273/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/534c64942f1a19073d9abdea8c929ade/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-dash] /home/harsh/Downloads/ExoPlayer-release-v2/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-hls] /home/harsh/Downloads/ExoPlayer-release-v2/library/hls/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-smoothstreaming] /home/harsh/Downloads/ExoPlayer-release-v2/library/smoothstreaming/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-ui] /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-cronet] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/cronet/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-33:12
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a7d84b4aa7074c991ca4265693abc9c1/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5763e8ee1a7007521f046e80db437aca/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cronet:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/44316734384815d3a1e02554921cb033/jetified-play-services-cronet-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6f6e450dd3b351f4b31f22977db24192/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5876b455a4c2c8ad949393db39b2a3a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ec55dea7f9115aa1cff88e781efbfee8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a408bf2af2787be87b80af752cf0e7ce/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e12ecd426906fc29410518aa12df6dd0/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/0a70acaf4ea0f0100511f7b81c77eb50/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/0040f37888299d915c668314391358d2/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e91d0e0ad85c6d2d786288b50fe157f1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/909f633e9f0e6be383cf79d017e0e157/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b92bc3b7e3d77c7e6174a330a72e7d3/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/baaec7ebd321abd41c47867b23d0d6e2/media-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/600e53abec24881d855f499291fbc66b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3f0dff8c1f235d28a1adb69d07a7d445/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/06e40fe03a6c66237b2281d26bc3ead0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/298bb833ddb91a79703d02af826f9d7e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/218f34c8603241883ac6c0ea175dcf99/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:library-extractor] /home/harsh/Downloads/ExoPlayer-release-v2/library/extractor/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5a43e6347e05dbb265c5a0d55940a744/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/13042d990a41914f5939a9277731760e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b1e93f00d1fe2f5ec581bcd1fc3842bf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/be6e8e571b539c8dc628c1faa0646fe0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/17d68619523183d8c173ad3399320c19/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2eca85c6fc5e26715aaf0db2782b39c3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4ad1c555720c4f9c220f6eaaed368846/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e396e4e4b6c15b07d18d9a631b21f6bc/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e47387bbaff289fd01597ac334d96de2/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:15:1-22:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+	package
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:19:5-49
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:1-98:12
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:21:3-64
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:19:5-66
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:21:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:22:3-76
+MERGED from [:extension-cronet] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/cronet/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:extension-cronet] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/cronet/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:20:5-78
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:22:20-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:23:3-77
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:23:20-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:24:3-78
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:24:20-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:25:3-74
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:25:20-72
+uses-feature#android.software.leanback
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:27:3-84
+	android:required
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:27:58-82
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:27:17-57
+uses-feature#android.hardware.touchscreen
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:28:3-87
+	android:required
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:28:61-85
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:28:17-60
+uses-sdk
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+MERGED from [com.google.android.material:material:1.2.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/36a594765d546bc118c6e0273dbf7273/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/36a594765d546bc118c6e0273dbf7273/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/534c64942f1a19073d9abdea8c929ade/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/534c64942f1a19073d9abdea8c929ade/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /home/harsh/Downloads/ExoPlayer-release-v2/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /home/harsh/Downloads/ExoPlayer-release-v2/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-hls] /home/harsh/Downloads/ExoPlayer-release-v2/library/hls/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-hls] /home/harsh/Downloads/ExoPlayer-release-v2/library/hls/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-smoothstreaming] /home/harsh/Downloads/ExoPlayer-release-v2/library/smoothstreaming/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-smoothstreaming] /home/harsh/Downloads/ExoPlayer-release-v2/library/smoothstreaming/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /home/harsh/Downloads/ExoPlayer-release-v2/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-cronet] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/cronet/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-cronet] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/cronet/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /home/harsh/Downloads/ExoPlayer-release-v2/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a7d84b4aa7074c991ca4265693abc9c1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a7d84b4aa7074c991ca4265693abc9c1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5763e8ee1a7007521f046e80db437aca/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5763e8ee1a7007521f046e80db437aca/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cronet:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/44316734384815d3a1e02554921cb033/jetified-play-services-cronet-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cronet:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/44316734384815d3a1e02554921cb033/jetified-play-services-cronet-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6f6e450dd3b351f4b31f22977db24192/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6f6e450dd3b351f4b31f22977db24192/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5876b455a4c2c8ad949393db39b2a3a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5876b455a4c2c8ad949393db39b2a3a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ec55dea7f9115aa1cff88e781efbfee8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/ec55dea7f9115aa1cff88e781efbfee8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a408bf2af2787be87b80af752cf0e7ce/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/a408bf2af2787be87b80af752cf0e7ce/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e12ecd426906fc29410518aa12df6dd0/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e12ecd426906fc29410518aa12df6dd0/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/0a70acaf4ea0f0100511f7b81c77eb50/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/0a70acaf4ea0f0100511f7b81c77eb50/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/0040f37888299d915c668314391358d2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/0040f37888299d915c668314391358d2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e91d0e0ad85c6d2d786288b50fe157f1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e91d0e0ad85c6d2d786288b50fe157f1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/909f633e9f0e6be383cf79d017e0e157/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/909f633e9f0e6be383cf79d017e0e157/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b92bc3b7e3d77c7e6174a330a72e7d3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/1b92bc3b7e3d77c7e6174a330a72e7d3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/baaec7ebd321abd41c47867b23d0d6e2/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/baaec7ebd321abd41c47867b23d0d6e2/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/600e53abec24881d855f499291fbc66b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/600e53abec24881d855f499291fbc66b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3f0dff8c1f235d28a1adb69d07a7d445/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/3f0dff8c1f235d28a1adb69d07a7d445/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/06e40fe03a6c66237b2281d26bc3ead0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/06e40fe03a6c66237b2281d26bc3ead0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/298bb833ddb91a79703d02af826f9d7e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/298bb833ddb91a79703d02af826f9d7e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/218f34c8603241883ac6c0ea175dcf99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/218f34c8603241883ac6c0ea175dcf99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:library-extractor] /home/harsh/Downloads/ExoPlayer-release-v2/library/extractor/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-extractor] /home/harsh/Downloads/ExoPlayer-release-v2/library/extractor/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-common] /home/harsh/Downloads/ExoPlayer-release-v2/library/common/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5a43e6347e05dbb265c5a0d55940a744/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5a43e6347e05dbb265c5a0d55940a744/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/13042d990a41914f5939a9277731760e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/13042d990a41914f5939a9277731760e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b1e93f00d1fe2f5ec581bcd1fc3842bf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b1e93f00d1fe2f5ec581bcd1fc3842bf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/be6e8e571b539c8dc628c1faa0646fe0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/be6e8e571b539c8dc628c1faa0646fe0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/17d68619523183d8c173ad3399320c19/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/17d68619523183d8c173ad3399320c19/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2eca85c6fc5e26715aaf0db2782b39c3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/2eca85c6fc5e26715aaf0db2782b39c3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4ad1c555720c4f9c220f6eaaed368846/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/4ad1c555720c4f9c220f6eaaed368846/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e396e4e4b6c15b07d18d9a631b21f6bc/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e396e4e4b6c15b07d18d9a631b21f6bc/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e47387bbaff289fd01597ac334d96de2/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/e47387bbaff289fd01597ac334d96de2/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:18:5-74
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /home/harsh/.gradle/caches/transforms-2/files-2.1/91d78391628859d5f1b4fb8a8b759fe9/jetified-cronet-api-72.3626.96/AndroidManifest.xml:18:5-74
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+	android:targetSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:29:3-14
+		INJECTED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml
+application
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:31:3-96:17
+MERGED from [com.google.android.material:material:1.2.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/36a594765d546bc118c6e0273dbf7273/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/harsh/.gradle/caches/transforms-2/files-2.1/36a594765d546bc118c6e0273dbf7273/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-31:19
+MERGED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-cronet:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/44316734384815d3a1e02554921cb033/jetified-play-services-cronet-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-cronet:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/44316734384815d3a1e02554921cb033/jetified-play-services-cronet-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6f6e450dd3b351f4b31f22977db24192/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/6f6e450dd3b351f4b31f22977db24192/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5876b455a4c2c8ad949393db39b2a3a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/5876b455a4c2c8ad949393db39b2a3a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/fc915107eb5017433eed035d3bc335c3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:37:7-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/85c67d24319b896b2311d5114ff15136/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:32:7-47
+	tools:targetApi
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:39:7-27
+	android:largeHeap
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:35:7-31
+	android:icon
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:33:7-41
+	android:allowBackup
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:36:7-34
+	android:banner
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:34:7-43
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:38:7-59
+activity#com.google.android.exoplayer2.demo.SampleChooserActivity
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:41:5-62:16
+	android:label
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:43:9-49
+	android:configChanges
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:42:9-47
+	android:theme
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:44:9-47
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:41:15-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:45:7-49:23
+action#android.intent.action.MAIN
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:46:9-60
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:46:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:47:9-68
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:47:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:48:9-77
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:48:19-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:pathPattern:.*\\.exolist\\.json+data:scheme:asset+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:50:7-61:23
+action#android.intent.action.VIEW
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:51:9-60
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:51:17-58
+category#android.intent.category.DEFAULT
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:9-67
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:52:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:53:9-69
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:53:19-67
+data
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:9-38
+	android:host
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:59:15-31
+	android:scheme
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:54:15-36
+	android:pathPattern
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:60:15-56
+activity#com.google.android.exoplayer2.demo.PlayerActivity
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:64:5-82:16
+	android:label
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:67:9-49
+	android:launchMode
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:66:9-39
+	android:configChanges
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:65:9-118
+	android:theme
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:68:9-43
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:64:15-79
+intent-filter#action:name:com.google.android.exoplayer.demo.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:asset+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:69:7-77:23
+action#com.google.android.exoplayer.demo.action.VIEW
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:70:9-79
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:70:17-77
+intent-filter#action:name:com.google.android.exoplayer.demo.action.VIEW_LIST+category:name:android.intent.category.DEFAULT
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:78:7-81:23
+action#com.google.android.exoplayer.demo.action.VIEW_LIST
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:79:9-84
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:79:17-82
+service#com.google.android.exoplayer2.demo.DemoDownloadService
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:84:5-90:15
+	android:exported
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:85:9-33
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:84:14-83
+intent-filter#action:name:com.google.android.exoplayer.downloadService.action.RESTART+category:name:android.intent.category.DEFAULT
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:86:7-89:23
+action#com.google.android.exoplayer.downloadService.action.RESTART
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:87:9-93
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:87:17-91
+service#com.google.android.exoplayer2.scheduler.PlatformScheduler$PlatformSchedulerService
+ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:92:5-94:34
+	android:exported
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:94:9-32
+	android:permission
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:93:9-65
+	android:name
+		ADDED from /home/harsh/Downloads/ExoPlayer-release-v2/demos/main/src/main/AndroidManifest.xml:92:14-111
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-69
+meta-data#com.google.android.gms.version
+ADDED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-30:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/c9d18cc09d87a2fc692bfb31df38f4d5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from [:extension-ima] /home/harsh/Downloads/ExoPlayer-release-v2/extensions/ima/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/harsh/.gradle/caches/transforms-2/files-2.1/b3efd38bbdf6ac0275ce57598e21e215/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79

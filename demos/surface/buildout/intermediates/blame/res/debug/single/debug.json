@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/buildout/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/buildout/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/buildout/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/buildout/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/buildout/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/buildout/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/Downloads/ExoPlayer-release-v2/demos/surface/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
